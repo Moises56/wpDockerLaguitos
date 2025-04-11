@@ -1,0 +1,2 @@
+cd C:\Users\estefany.lagos\Desktop\wp
+docker-compose up -d

@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Themes - Astra package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-06 08:14:37+0000\n"
+"PO-Revision-Date: 2025-03-17 11:55:46+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1268,7 +1268,7 @@ msgstr "Arriba derecha desde cuadrado"
 
 #: assets/svg/logo-svg-icons/icons-v6-3.php:4351
 msgid "Up Right And Down Left From Center"
-msgstr "Ariba derecha y abajo izquierda desde centro"
+msgstr "Arriba derecha y abajo izquierda desde el centro"
 
 #: assets/svg/logo-svg-icons/icons-v6-3.php:4340
 msgid "Up Long"
